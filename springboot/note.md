@@ -53,6 +53,7 @@ public class QaErrorController implements ErrorController {
 
 ## 3 对项目中的exception做统一处理
 
+1) 第一种方式：
 ```java
 
 @ControllerAdvice
@@ -73,6 +74,53 @@ public class ExceptionHandlerAdvice {
     @ExceptionHandler(NoNodeAvailableException.class)
     public ResultBean handleNoNodeAvailableException(NoNodeAvailableException e) {
         return new ResultBean(ResultCode.ES_TIMEOUT);
+    }
+}
+
+```
+
+2) 第二种方式：
+
+@Aspect 注解；
+织入点：
+方法返回值为：ResultEntity
+所有带有controller层级的包 下面的 所有类的所有方法
+```java
+
+@Around("execution(public com.ssslinppp.model.ResultEntity com...controller...*(..))")
+@Component
+@Aspect
+public class ControllerAspect {
+    public static final Logger logger = LoggerFactory.getLogger(ControllerAspect.class);
+
+    @Around("execution(public com.ssslinppp.model.ResultEntity com..*.controller..*.*(..))")
+    public Object handleControllerMethod(ProceedingJoinPoint pjp) {
+        Stopwatch stopwatch = Stopwatch.createStarted();
+
+        ResultEntity<?> resultEntity;
+        try {
+            logger.info("执行Controller开始: " + pjp.getSignature() + " 参数：" + Lists.newArrayList(pjp.getArgs()).toString());
+            resultEntity = (ResultEntity<?>) pjp.proceed(pjp.getArgs());
+            logger.info("执行Controller结束: " + pjp.getSignature() + "， 返回值：" + resultEntity.toString());
+            logger.info("耗时：" + stopwatch.stop().elapsed(TimeUnit.MILLISECONDS) + "(毫秒).");
+        } catch (Throwable throwable) {
+            resultEntity = handlerException(pjp, throwable);
+        }
+
+        return resultEntity;
+    }
+
+    private ResultEntity<?> handlerException(ProceedingJoinPoint pjp, Throwable e) {
+        ResultEntity<?> resultEntity = null;
+        if (e instanceof RuntimeException) {
+            logger.error("RuntimeException{方法：" + pjp.getSignature() + "， 参数：" + pjp.getArgs() + ",异常：" + e.getMessage() + "}", e);
+            resultEntity = ResultEntity.fail(e.getMessage());
+        } else {
+            logger.error("异常{方法：" + pjp.getSignature() + "， 参数：" + pjp.getArgs() + ",异常：" + e.getMessage() + "}", e);
+            resultEntity = ResultEntity.fail(e.getMessage());
+        }
+
+        return resultEntity;
     }
 }
 
