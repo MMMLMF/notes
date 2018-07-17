@@ -82,9 +82,13 @@ public class ExceptionHandlerAdvice {
 2) 第二种方式：
 
 @Aspect 注解；
+
 织入点：
+
 方法返回值为：ResultEntity
+
 所有带有controller层级的包 下面的 所有类的所有方法
+
 ```java
 
 @Around("execution(public com.ssslinppp.model.ResultEntity com...controller...*(..))")
