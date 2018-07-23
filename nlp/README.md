@@ -39,4 +39,4 @@
 
 一个算法的提出，一定是先有场景和需求，或者是前面的算法有改进的空间。场景高于算法这点是毋庸置疑的。
 
-这篇[博客](http://www.cnblogs.com/txq157/p/8404646.html)很不错
+这几个博客[佟学强](http://www.cnblogs.com/txq157)、[红色石头](https://blog.csdn.net/red_stone1/)、[科学空间](https://spaces.ac.cn/)、[liuchongee](https://blog.csdn.net/liuchonge)、[Jey Zhang](http://www.jeyzhang.com/)、[西士城](https://zhuanlan.zhihu.com/xitucheng10)、[机器学习算法与自然语言处理](https://zhuanlan.zhihu.com/qinlibo-ml)、[悟乙己](https://blog.csdn.net/sinat_26917383/article/details/54882554)很不错
