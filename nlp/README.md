@@ -33,3 +33,10 @@
 > Tree-LSTM\
 > Siamese LSTM/Manhattan LSTM/MaLSTM\
 > Others
+
+
+### 算法的提出
+
+一个算法的提出，一定是先有场景和需求，或者是前面的算法有改进的空间。场景高于算法这点是毋庸置疑的。
+
+这篇[博客](http://www.cnblogs.com/txq157/p/8404646.html)很不错
