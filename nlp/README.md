@@ -145,5 +145,23 @@ CNN和RNN都是NLP中常用的模型，两个模型捕捉特征的角度也不�
 
 第十二难：篇章分析。一堆堆的句子，每个都分析明白了，但是一堆句子组合成的篇章又怎么才能联系起来呢？你得总结出本文的中心思想不是？这他娘的是小学语文里最难的一道题。
 
+### 自然语言处理和聊天机器人什么关系？
+
+第一个应用：机器翻译。
+
+第二个应用：语音翻译。
+
+第三个应用：文本分类与情感分析。
+
+第四个应用：信息检索与问答系统。
+
+第五个应用：自动文摘和信息抽取。
+
+第六个应用：人机对话。融合了语音识别、口语情感分析、再加上问答系统的全部内容，是自然语言处理的最高境界，离机器人统霸世界不远了。
+
+还有：文本挖掘、舆情分析、隐喻计算、文字编辑和自动校对、作文自动评分、OCR、说话人识别验证……
+
+
+
 
 这几个博客[佟学强](http://www.cnblogs.com/txq157)、[红色石头](https://blog.csdn.net/red_stone1/)、[科学空间](https://spaces.ac.cn/)、[liuchongee](https://blog.csdn.net/liuchonge)、[Jey Zhang](http://www.jeyzhang.com/)、[西士城](https://zhuanlan.zhihu.com/xitucheng10)、[机器学习算法与自然语言处理](https://zhuanlan.zhihu.com/qinlibo-ml)、[悟乙己](https://blog.csdn.net/sinat_26917383/article/details/54882554)、[wildml](http://www.wildml.com/)很不错
