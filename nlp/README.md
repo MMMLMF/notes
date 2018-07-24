@@ -164,4 +164,4 @@ CNN和RNN都是NLP中常用的模型，两个模型捕捉特征的角度也不�
 
 
 
-这几个博客[佟学强](http://www.cnblogs.com/txq157)、[红色石头](https://blog.csdn.net/red_stone1/)、[科学空间](https://spaces.ac.cn/)、[liuchongee](https://blog.csdn.net/liuchonge)、[Jey Zhang](http://www.jeyzhang.com/)、[西士城](https://zhuanlan.zhihu.com/xitucheng10)、[机器学习算法与自然语言处理](https://zhuanlan.zhihu.com/qinlibo-ml)、[悟乙己](https://blog.csdn.net/sinat_26917383/article/details/54882554)、[wildml](http://www.wildml.com/)很不错
+这几个博客[佟学强](http://www.cnblogs.com/txq157)、[红色石头](https://blog.csdn.net/red_stone1/)、[科学空间](https://spaces.ac.cn/)、[liuchongee](https://blog.csdn.net/liuchonge)、[Jey Zhang](http://www.jeyzhang.com/)、[西士城](https://zhuanlan.zhihu.com/xitucheng10)、[机器学习算法与自然语言处理](https://zhuanlan.zhihu.com/qinlibo-ml)、[悟乙己](https://blog.csdn.net/sinat_26917383/article/details/54882554)、[wildml](http://www.wildml.com/)、[模型融合](https://zhuanlan.zhihu.com/p/33589222)很不错
