@@ -13,10 +13,38 @@ Counter(all_data).most_common(vocab_size - 1)  # 保留最常见的前vocab_size
 
 #### tf.placeholder(dtype, shape=None, name=None)
 
-此函数可以理解为形参，用于定义过程，在执行的时候再赋具体的值
+此函数可以理解为形参，用于定义过程，在执行的时候再赋具体的值。dtype：数据类型。常用的是tf.float32,tf.float64等数值类型；shape：数据形状。默认是None，就是一维值，也可以是多维，比如[2,3], [None, 3]表示列是3，行不定；name：名称。
 
-dtype：数据类型。常用的是tf.float32,tf.float64等数值类型
+#### tf.variable_scope和tf.name_scope
+tf.variable_scope可以让变量有相同的命名，包括tf.get_variable得到的变量，还有tf.Variable的变量
 
-shape：数据形状。默认是None，就是一维值，也可以是多维，比如[2,3], [None, 3]表示列是3，行不定
+tf.name_scope可以让变量有相同的命名，只是限于tf.Variable的变量
 
-name：名称。
+```python
+
+import tensorflow as tf
+ 
+with tf.variable_scope("foo"):
+    a = tf.get_variable("bar", [1])
+    print(a.name)                    #foo/bar:0
+    b = tf.Variable("b", [1])
+    print(b.name)                   #foo/Variable:0
+ 
+with tf.variable_scope("bar"):
+    a = tf.get_variable("bar", [1])
+    print(a.name)                     #bar/bar:0
+    b = tf.Variable("b", [1])
+    print(b.name)                   #bar/Variable:0
+ 
+with tf.name_scope("a"):
+    a = tf.Variable([1])
+    print(a.name)                      #a/Variable:0
+ 
+with tf.name_scope("b"):
+    b = tf.get_variable("b", [1])
+    print(b.name)                #b_1:0
+ 
+with tf.name_scope("b"):
+    c = tf.get_variable("b", [1])
+
+```
