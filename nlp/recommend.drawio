@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T14:16:37.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EEO3KsYOVn7MVOqtWRCH" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T14:16:47.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xQZ8bexFAofd7_yKiTIb" version="13.7.6" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
     <mxGraphModel dx="615" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,13 +102,16 @@
           <mxGeometry x="400" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2lEhO2xfnhziDfnZjIPp-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;正排信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="320" width="110" height="40" as="geometry" />
+          <mxGeometry x="769" y="320" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2lEhO2xfnhziDfnZjIPp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2lEhO2xfnhziDfnZjIPp-6" target="2lEhO2xfnhziDfnZjIPp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2lEhO2xfnhziDfnZjIPp-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;数据仓库&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.470588235294173;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2lEhO2xfnhziDfnZjIPp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2lEhO2xfnhziDfnZjIPp-7" target="2lEhO2xfnhziDfnZjIPp-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2lEhO2xfnhziDfnZjIPp-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;物料池&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10.470588235294173;" vertex="1" parent="1">
           <mxGeometry x="769" y="200" width="110" height="70" as="geometry" />
