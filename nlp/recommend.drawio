@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T14:36:19.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Riap-Yc2yyuZd6llnBNR" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T14:49:30.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="LQZxE20VlhezB-h_4llL" version="13.7.6" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
-    <mxGraphModel dx="353" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="497" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -765,13 +765,13 @@
         <mxCell id="0mB9xY0eILSjtwA_9l84-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic3.zhimg.com/80/v2-0d579af27c7f0ab874af4e730f80dfea_1440w.jpg;" parent="1" vertex="1">
           <mxGeometry x="145" y="2188" width="520" height="265" as="geometry" />
         </mxCell>
-        <mxCell id="0mB9xY0eILSjtwA_9l84-2" value="embUCF" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="0mB9xY0eILSjtwA_9l84-2" value="自选相关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="2552" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="0mB9xY0eILSjtwA_9l84-3" value="stockUCF" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="0mB9xY0eILSjtwA_9l84-3" value="持仓相关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="300.5" y="2552" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="0mB9xY0eILSjtwA_9l84-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="0mB9xY0eILSjtwA_9l84-4" value="阅读兴趣" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="2552" width="67" height="32" as="geometry" />
         </mxCell>
         <mxCell id="0mB9xY0eILSjtwA_9l84-5" value="个性化召回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
@@ -792,17 +792,20 @@
         <mxCell id="h4GFM9N8XvxRGYKTkqYC-5" value="利好/利空" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="447" y="2512" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="h4GFM9N8XvxRGYKTkqYC-7" value="item2vec" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="h4GFM9N8XvxRGYKTkqYC-7" value="ItemCF" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="2592" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="h4GFM9N8XvxRGYKTkqYC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="h4GFM9N8XvxRGYKTkqYC-8" value="UserCF" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300.5" y="2592" width="67" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="h4GFM9N8XvxRGYKTkqYC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="h4GFM9N8XvxRGYKTkqYC-9" value="&lt;font size=&quot;1&quot;&gt;GraphBased&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="2592" width="67" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h4GFM9N8XvxRGYKTkqYC-10" value="相关召回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="149.5" y="2592" width="67" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="h4GFM9N8XvxRGYKTkqYC-11" value="个股行情" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="2552" width="67" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
