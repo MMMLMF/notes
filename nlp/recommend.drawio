@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T00:41:57.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="MYT0itczauOpfgjwsZ6A" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T00:42:40.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-_IVxu4ZA0-6K-BdI3Yo" version="13.7.6" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
     <mxGraphModel dx="988" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -453,11 +453,14 @@
         <mxCell id="SUds5BYxjLjZ6QGA8Evi-95" value="行为(浏览/点击/收藏)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="164" y="1258" width="123" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SUds5BYxjLjZ6QGA8Evi-96" value="静态属性(性别, 年龄, 学历)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SUds5BYxjLjZ6QGA8Evi-96" value="通用属性(性别, 年龄, 学历)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="312" y="1258" width="156" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SUds5BYxjLjZ6QGA8Evi-97" value="User Embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="1463" width="113" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SUds5BYxjLjZ6QGA8Evi-98" value="业务属性(性别, 年龄, 学历)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1258" width="156" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
