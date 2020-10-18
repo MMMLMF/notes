@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T09:10:46.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vDPTI8ht3_RqY2WsY4bL" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-18T09:20:34.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DVXsWr_p6f2mj_Lnmfe_" version="13.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="395" dy="249" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -61,7 +61,7 @@
         <mxCell id="8-ckLOhh94-560xdvz12-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8-ckLOhh94-560xdvz12-18" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8-ckLOhh94-560xdvz12-18" value="分词, 切句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8-ckLOhh94-560xdvz12-18" value="候选实体列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="296" y="208" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8-ckLOhh94-560xdvz12-33" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="8-ckLOhh94-560xdvz12-42" value="9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="391.5" y="525" width="17" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ckLOhh94-560xdvz12-43" value="分词, 切句" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="341" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
