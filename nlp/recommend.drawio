@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:10:02.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="XPCtkrTe9ErZpvRqR_OZ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:11:54.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="qg0Pl7mmf5JzuQWDSwOY" version="13.8.8" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
-    <mxGraphModel dx="1067" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1255" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-86" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="2585" width="1046" height="489" as="geometry" />
+        </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="2651" width="253" height="369" as="geometry" />
         </mxCell>
@@ -1092,8 +1095,8 @@
         <mxCell id="qenNVkJyBJal_2lU3Nn_-12" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="172" y="2868" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-65" value="不同数据来源的特征数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="2610" width="142" height="18" as="geometry" />
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-65" value="来源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="2609" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-66" value="ETL引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="456" y="2610" width="56" height="18" as="geometry" />
@@ -1112,9 +1115,6 @@
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-72" value="Model file" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="919" y="2788" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-75" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1145,6 +1145,9 @@
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-85" value="Cashe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="143" y="3090" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-87" value="OffLine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2590" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
