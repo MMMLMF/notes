@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:48:22.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="JLwdc9ywDt_U6iykOckC" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:50:28.296Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="EvGTwCC-HMOr-WwXMegv" version="13.8.8" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
-    <mxGraphModel dx="1067" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="427" dy="318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1062,32 +1062,14 @@
         <mxCell id="qenNVkJyBJal_2lU3Nn_-27" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="75" y="2644" width="190" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-28" value="HBase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="111" y="2684" width="40.5" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-29" value="Hive" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="195" y="2684" width="40.5" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-30" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="151.5" y="2729" width="40.5" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-31" value="Item" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="166" y="2671" width="40" height="20" as="geometry" />
+          <mxGeometry x="136" y="2660" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="81" y="2850" width="210" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-8" value="HBase" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="131.5" y="2889" width="40.5" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-9" value="Hive" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="218.25" y="2897" width="40.5" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-10" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="172" y="2927" width="40.5" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-12" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="172" y="2877" width="40" height="20" as="geometry" />
+          <mxGeometry x="152" y="2869" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-65" value="来源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="2609" width="40" height="20" as="geometry" />
@@ -1210,6 +1192,24 @@
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-114" value="Hive" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="2807" width="34" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-116" value="Hive" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2691" width="34" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-117" value="MySQL" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="2736.31" width="42" height="40.69" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-118" value="HBase" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="2688.31" width="38" height="40.69" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-119" value="Hive" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="2898.69" width="34" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-120" value="MySQL" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2944" width="42" height="40.69" as="geometry" />
+        </mxCell>
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-121" value="HBase" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="2896" width="38" height="40.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
