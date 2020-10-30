@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:23:52.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="Ck5wSVD2RPcXtME8Xl_P" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:24:50.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="NCNgXtf3VGm1GPsJzJ4q" version="13.8.8" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
-    <mxGraphModel dx="1255" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1184,7 +1184,7 @@
         <mxCell id="qenNVkJyBJal_2lU3Nn_-93" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Extract&lt;/span&gt;&lt;/div&gt;/Feature engineering" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="3280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-95" value="Inference data set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-95" value="Inference data set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="489" y="3286.82" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-97" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=11.03448275862069;endSize=6.365517241379311;" edge="1" parent="1">
@@ -1196,7 +1196,7 @@
         <mxCell id="qenNVkJyBJal_2lU3Nn_-98" value="&lt;span&gt;Inference&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="624.5" y="3289.8199999999997" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qenNVkJyBJal_2lU3Nn_-99" value="Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qenNVkJyBJal_2lU3Nn_-99" value="Result" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="726" y="3284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qenNVkJyBJal_2lU3Nn_-102" value="OnLine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
