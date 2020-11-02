@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T09:46:42.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="uHCy-dQnnKXrwcBnkrHl" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T09:47:34.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.58" etag="HbdSE3V2-l1FSgFXJVGi" version="13.8.8" type="github">
   <diagram id="0R1KgyZivqST2G8Sgrir" name="Page-1">
-    <mxGraphModel dx="276" dy="185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1223,7 +1223,7 @@
         <mxCell id="BbrouQvfWwb3upfqwRBp-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;策略运营平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="644" y="865" width="196" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BbrouQvfWwb3upfqwRBp-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;模型训练可运营平台&lt;br&gt;(AI算法平台)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="BbrouQvfWwb3upfqwRBp-6" value="&lt;span style=&quot;font-size: 16px&quot;&gt;模型训练运营平台&lt;br&gt;(AI算法平台)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1023" y="865" width="196" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BbrouQvfWwb3upfqwRBp-11" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=6.796116504854369;endSize=5.555339805825242;fillColor=#e1d5e7;strokeColor=#9673a6;startArrow=block;startWidth=6.796116504854369;startSize=6.995530726256984;width=5.4368932038834945;" edge="1" parent="1">
