@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:29:10.133Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="S0zS5LypCknpYlJgq1bW" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T07:29:55.522Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="p9ouRkOjoYjtYlEMh71_" version="14.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2075" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="1161" dy="224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -577,8 +577,8 @@
             <mxPoint x="672" y="2103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhwPZyXbtnBkphgXzHSA-61" value="BERT层" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="641" y="2015" width="296.5" height="89.5" as="geometry" />
+        <mxCell id="FhwPZyXbtnBkphgXzHSA-61" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="641" y="2015" width="296.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="FhwPZyXbtnBkphgXzHSA-69" value="Dense" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="656.25" y="1945" width="50.5" height="21" as="geometry" />
@@ -693,6 +693,9 @@
         </mxCell>
         <mxCell id="FhwPZyXbtnBkphgXzHSA-116" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Tok&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;m&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFD966;strokeWidth=2;fontSize=8;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="889" y="2123" width="35" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="FhwPZyXbtnBkphgXzHSA-117" value="Bert层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="767.25" y="2066" width="44" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
