@@ -1,6 +1,6 @@
-<mxfile modified="2021-08-31T07:52:00.486Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="mO3W_TjVLX_AZV2LkBTc" version="14.9.6" type="github">
+<mxfile modified="2021-08-31T07:52:53.382Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="loXz0-g8O8dKG5QSxVY_" version="14.9.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1505" dy="455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,67 +8,67 @@
           <mxGeometry x="-580" y="350" width="498.21" height="320.96" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-3" value="公有云" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="1010" width="51" height="20" as="geometry" />
+          <mxGeometry x="-498" y="1019" width="51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-4" value="私有云" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-441" y="1010" width="68" height="20" as="geometry" />
+          <mxGeometry x="-441" y="1019" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-5" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-364" y="1010" width="65" height="20" as="geometry" />
+          <mxGeometry x="-364" y="1019" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-6" value="GPU" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1010" width="68" height="20" as="geometry" />
+          <mxGeometry x="-290" y="1019" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-7" value="&lt;div&gt;&lt;span&gt;.....&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-214" y="1010" width="64" height="20" as="geometry" />
+          <mxGeometry x="-214" y="1019" width="64" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-8" value="算力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-541" y="1010" width="30" height="20" as="geometry" />
+          <mxGeometry x="-541" y="1019" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-9" value="账号权限" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="970" width="60" height="60" as="geometry" />
+          <mxGeometry x="-140" y="979" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-11" value="运营管理" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="900" width="60" height="60" as="geometry" />
+          <mxGeometry x="-140" y="909" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-14" value="数据集成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="947" width="50" height="20" as="geometry" />
+          <mxGeometry x="-320" y="964" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-15" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="947" width="50" height="20" as="geometry" />
+          <mxGeometry x="-260" y="964" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-16" value="数据归类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="947" width="50" height="20" as="geometry" />
+          <mxGeometry x="-200" y="964" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-17" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-320" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-18" value="数据计算" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-260" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-19" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-200" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-21" value="运维管理" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="830" width="60" height="60" as="geometry" />
+          <mxGeometry x="-140" y="839" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-22" value="资源管理" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="760" width="60" height="60" as="geometry" />
+          <mxGeometry x="-140" y="769" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-24" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="917" width="170" height="20" as="geometry" />
+          <mxGeometry x="-320" y="938" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-25" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-498" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-26" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-438.5" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-438.5" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-27" value="数据标注" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="-379" y="977" width="50" height="20" as="geometry" />
+          <mxGeometry x="-379" y="989" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sR6iaG6ek7NB8Ki9UmXm-28" value="开发中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-541" y="860" width="30" height="137" as="geometry" />
+          <mxGeometry x="-541" y="872" width="30" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
